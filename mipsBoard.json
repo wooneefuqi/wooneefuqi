@@ -23,8 +23,8 @@
             },
             {
               "name": "MicroCamel 2"
-            },
-          ,
+            }
+	  ],
           "toolsDependencies": [
             {
               "packager": "arduino",
