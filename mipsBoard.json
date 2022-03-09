@@ -3,14 +3,14 @@
     {
       "name": "MipsBoard",
       "maintainer": "MicroCamel",
-      "websiteURL": "https://MicroCamel",
+      "websiteURL": "https://MicroCamel.com",
       "email": "",
       "help": {
         "online": "https://forum.arduino.cc/index.php?topic=412070"
       },
       "platforms": [
         {
-          "name": "Mips Board",
+          "name": "MipsBoard",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
